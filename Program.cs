@@ -10,7 +10,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WhriteLine("Hello World!");
+            Console.WhriteLine("Hello World! Fix something. And more ...");
+            Console.WhriteLine("Hello World! Fix something! +++++");
         }
     }
 }
